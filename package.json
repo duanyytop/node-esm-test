@@ -1,0 +1,17 @@
+{
+  "name": "node-esm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@nervosnetwork/ckb-sdk-utils": "0.109.2",  
+    "@rgbpp-sdk/btc": "0.0.0-snap-20240801024204",
+    "@rgbpp-sdk/ckb": "0.0.0-snap-20240801024204"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
